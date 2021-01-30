@@ -1,2 +1,2 @@
-# 1st-test
+# 1st test
 Hello git-hub
