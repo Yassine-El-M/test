@@ -12,8 +12,8 @@ The main goal in this report is to showcase the different skills and techniques 
   9) Machine Learning with Python
  10) Applied Data Science Capstone
 
-You can download the full report in pdf format here : https://github.com/Yassine-El-M/test/raw/master/DS-Capstone-By-Yassine-El-Marhraoui.pdf
-You can also visualize the dashboard created for this project in this website : http://yassineelmarhraoui.pythonanywhere.com/
+You can download the full report in pdf format here : [DS-Capstone-By-Yassine-El-Marhraoui.pdf](https://github.com/Yassine-El-M/test/raw/master/DS-Capstone-By-Yassine-El-Marhraoui.pdf)
+You can also visualize the dashboard created for this project in this website : [Dashboard](http://yassineelmarhraoui.pythonanywhere.com/"Using Dash")
 
 Have a good time reading :)
 Enjoy!
